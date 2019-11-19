@@ -1,6 +1,6 @@
 # EIP4-week1-file1.md
 
-Pint(score) = [0.03736343503298695, 0.9909]
+Print(score) = [0.03736343503298695, 0.9909]
 
 Convolution - Multiplication of input data(some values) with the kernal data and extracting(adding them together) one value.
 
